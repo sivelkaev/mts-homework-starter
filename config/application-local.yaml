@@ -1,0 +1,9 @@
+possible-names:
+  names:
+    - "DogName1"
+    - "CatName1"
+    - "WolfName1"
+    - "SharkName1"
+
+server:
+  port: 8082

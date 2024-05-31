@@ -1,3 +1,6 @@
-application:
-  animal:
-    possible-names: DogName1, CatName1, WolfName1, SharkName1
+possible-names:
+  names:
+    - "DogName"
+    - "CatName"
+    - "WolfName"
+    - "SharkName"
